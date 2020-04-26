@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## My event
 
-You can use the [editor on GitHub](https://github.com/MariiaaP/MariiaaP.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please, dont forget to visit this event [press there](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDVkZGI5NnZwOTVjbmthZDhkcmdoOTVuZ3IgbXBpc290c2thQG0&tmsrc=mpisotska%40gmail.com)
 
 ### Markdown
 
